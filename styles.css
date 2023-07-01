@@ -1,0 +1,11 @@
+html {
+    height: 1024px;
+    width: 1024px;
+    background-color: #9dc5c3;
+    background-image: linear-gradient(-45deg, #000000cf 0%, #ffffffcf 90%);
+}
+
+img {
+    display: block;
+    margin: auto;
+}
